@@ -27,7 +27,7 @@ ___
 
 - SoundBox:
 
-  https://github.com/BenHerbst/SoundBox/
+  ![Github project link](https://github.com/BenHerbst/SoundBox/)
 
   _You music player. Play music as simple as possible._
 
@@ -35,8 +35,10 @@ ___
 
 - Idaesbasic:
 
-  https://github.com/BenHerbst/Idaesbasic/
-  https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml#sgal_1
+  ![Github project link](https://github.com/BenHerbst/Idaesbasic/)
+  
+  
+  ![Softpedia link](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml)
   
   ![Idaesbasic screenshot](idaesbasic.png)
   
@@ -51,6 +53,6 @@ ___
 
 ### Where to find him?
 
-On Github: https://github.com/BenHerbst
+On Github: ![https://github.com/BenHerbst](https://github.com/BenHerbst)
 
-On Dev.to: https://dev.to/benherbst
+On Dev.to: ![https://dev.to/benherbst](https://dev.to/benherbst)
