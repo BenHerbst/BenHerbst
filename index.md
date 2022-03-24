@@ -1,11 +1,9 @@
 <br>
 <p align="center">
   <img src="benherbst.jpeg" width=250>
-  </br>
 </p>
 <p align="center">
   godot, javafx, python, html, css, kotlin, java, gdscript, javascript
-  </br>
 </p>
 
 ___
