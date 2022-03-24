@@ -2,10 +2,9 @@
 
 **godot, javafx, python, html, css, kotlin, java, gdscript, javascript**
 
-![My image](benherbst.jpeg)
-
 ___
 
+### Who is Ben Herbst?
 Ben Herbst is a **programmer**, **designer**, **musican**, **digital painter**.
 
 He **started to learn programming with 8 years** and got his first Laptop with Ubuntu with 6 years.
@@ -18,7 +17,31 @@ He knows how to create **stable and reliable user interfaces**.
 
 ___
 
-Where to find him?
+### Projects he created
+
+- SoundBox:
+
+  https://github.com/BenHerbst/SoundBox/
+
+  _You music player. Play music as simple as possible._
+
+  _The player is only one file with less then 150 lines of code._
+
+- Idaesbasic:
+
+  https://github.com/BenHerbst/Idaesbasic/
+  
+  _Your planner. Plan anything here._
+  
+  _It is a stable and reliable desktop app._
+
+
+- A ton of other projects not published yet, where he works every single day on
+
+___
+
+### Where to find him?
 
 On Github: https://github.com/BenHerbst
+
 On Dev.to: https://dev.to/benherbst
