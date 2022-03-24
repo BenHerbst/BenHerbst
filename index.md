@@ -30,6 +30,9 @@ ___
 - Idaesbasic:
 
   https://github.com/BenHerbst/Idaesbasic/
+  https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml#sgal_1
+  
+  ![Idaesbasic screenshot](idaesbasic.png)
   
   _Your planner. Plan anything here._
   
