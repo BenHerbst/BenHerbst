@@ -2,6 +2,8 @@
 
 **godot, javafx, python, html, css, kotlin, java, gdscript, javascript**
 
+![My image](benherbst.jpeg)
+
 ___
 
 Ben Herbst is a **programmer**, **designer**, **musican**, **digital painter**.
