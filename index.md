@@ -25,7 +25,7 @@ ___
 
 - SoundBox:
 
-  ![https://github.com/BenHerbst/SoundBox/](https://github.com/BenHerbst/SoundBox/)
+  [https://github.com/BenHerbst/SoundBox/](https://github.com/BenHerbst/SoundBox/)
 
   _You music player. Play music as simple as possible._
 
@@ -33,12 +33,12 @@ ___
 
 - Idaesbasic:
 
-  ![https://github.com/BenHerbst/Idaesbasic/](https://github.com/BenHerbst/Idaesbasic/)
+  [https://github.com/BenHerbst/Idaesbasic/](https://github.com/BenHerbst/Idaesbasic/)
   
   
   ![https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml)
   
-  ![Idaesbasic screenshot](idaesbasic.png)
+  [Idaesbasic screenshot](idaesbasic.png)
   
   _Your planner. Plan anything here._
   
@@ -51,6 +51,6 @@ ___
 
 ### Where to find him?
 
-On Github: ![https://github.com/BenHerbst](https://github.com/BenHerbst)
+On Github: [https://github.com/BenHerbst](https://github.com/BenHerbst)
 
-On Dev.to: ![https://dev.to/benherbst](https://dev.to/benherbst)
+On Dev.to: [https://dev.to/benherbst](https://dev.to/benherbst)
