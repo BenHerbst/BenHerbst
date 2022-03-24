@@ -36,9 +36,9 @@ ___
   [https://github.com/BenHerbst/Idaesbasic/](https://github.com/BenHerbst/Idaesbasic/)
   
   
-  ![https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml)
+  [https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/Idaesbasic.shtml)
   
-  [Idaesbasic screenshot](idaesbasic.png)
+  ![Idaesbasic screenshot](idaesbasic.png)
   
   _Your planner. Plan anything here._
   
