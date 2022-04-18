@@ -1,4 +1,4 @@
-**Checkout my website: https://benherbst.github.io/benherbst/**
+**Checkout my website: https://benherbst.github.io/BenHerbst/**
 
 I recommend **Plank dock**, **Herbstluftwm**, **Nitrogen** and **Polybar** for a **great Linux Desktop** experience.
 
