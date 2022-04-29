@@ -14,6 +14,3 @@ I believe that it has **4 elements**:
 2. Audio ( Sounds, Music; everything the player can hear )
 3. Graphics ( e.g. Figures, Houses and everything else the player can see )
 4. Data ( e.g. dialogues, items, ... )
-
-_**My stats with my private projects included ( With Gruvbox like dark reader ) :**_
-![stats](https://user-images.githubusercontent.com/83538916/163744048-0a987a90-f3bc-4d49-806b-6ab064ec5643.png)
