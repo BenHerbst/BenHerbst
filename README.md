@@ -2,7 +2,7 @@
 
 I recommend **Plank dock**, **Herbstluftwm**, **Nitrogen** and **Polybar** for a **great Linux Desktop** experience.
 
-Also use Gruvbox and Dark mode for your eyes.
+Also use **Gruvbox** dark mode for your eyes.
 
 Also take a look at **Manjaro** and **Arch**.
 
