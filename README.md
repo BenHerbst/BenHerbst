@@ -17,6 +17,8 @@ I believe that it has **4 elements**:
 3. Graphics ( e.g. Figures, Houses and everything else the player can see )
 4. Data ( e.g. dialogues, items, ... )
 
+**Please use Org Mode for your Todo lists. It is amazing!**
+
 https://resume.github.io/?BenHerbst
 
 ## Support me with Bitcoins:
