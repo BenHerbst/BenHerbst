@@ -1,10 +1,12 @@
 **Checkout my website: https://benherbst.github.io/BenHerbst/**
 
-I recommend **Plank dock**, **Herbstluftwm**, **Nitrogen** and **Polybar** for a **great Linux Desktop** experience.
+I use Vim for simple scripts in terminal and Emaccs for long coding sessions and Org mode.
 
-Also use **Gruvbox** dark mode for your eyes.
+I recommend **Gnome** for a **great out of the box Linux Desktop** experience.
 
-Also take a look at **Manjaro** and **Arch**.
+Also use **Gruvbox dark** and **Pop_!OS dark** themes for your eyes.
+
+Also take a look at **Pop!_OS** for large monitors and **Ubuntu**.
 
 I suggest you to make experience with the Godot Game engine. Game developing is more than just code.
 
