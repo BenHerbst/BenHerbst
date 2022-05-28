@@ -9,7 +9,7 @@ https://skyline.github.com/BenHerbst/2022
 
 https://resume.github.io/?BenHerbst
 
-## What tools do I recommend
+## Tools I recommend
 
 I use Vim for simple scripts in terminal and Emacs for long coding sessions and Org mode.
 
@@ -20,6 +20,12 @@ Also use **Gruvbox dark** and **Pop!_OS dark** themes for your eyes.
 Also take a look at **Pop!_OS** for large monitors and **Ubuntu**.
 
 I suggest you to make experience with the Godot Game engine. Game developing is more than just code.
+
+Don't build applications with electron shit.
+
+Use Javafx, Qt or Gtk
+
+If you do Java, use Jetbrains
 
 I believe that it has **4 elements**:
 
