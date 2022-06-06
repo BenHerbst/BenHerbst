@@ -38,6 +38,3 @@ I believe that it has **4 elements**:
 4. Data ( e.g. dialogues, items, ... )
 
 **Please use Org Mode for your todo lists. It is amazing!**
-
-## Support me with Bitcoins:
-![image](https://user-images.githubusercontent.com/83538916/168448619-0bc622cd-47f2-4a28-84e1-e5cadde70669.png)
