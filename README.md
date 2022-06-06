@@ -1,8 +1,11 @@
 **Checkout my website: https://benherbst.github.io/BenHerbst/**
 
 ## My stats
-<p align=center>
+<p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
+<p/>
+<p algin=left>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenHerbst&layout=compact"/>
 <p/>
 
 https://skyline.github.com/BenHerbst/2022
