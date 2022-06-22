@@ -1,4 +1,8 @@
-**Checkout my website: https://benherbst.github.io/BenHerbst/**
+***Checkout my website: https://benherbst.github.io/BenHerbst/***
+
+**Gdscript, Java, Kotlin, D, Python, Html, Css, Javascript, Typescript**
+
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter**
 
 ## My stats
 <p align=left>
