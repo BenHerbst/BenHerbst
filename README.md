@@ -4,6 +4,8 @@
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter**
 
+**Windows 11 Pro, Pop!_OS 22.04**
+
 ## My stats
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
