@@ -4,7 +4,7 @@
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter**
 
-**Windows 11 Pro, Pop!_OS 22.04**
+**LineageOS Pop!_OS 22.04**
 
 ## My stats
 <p align=left>
@@ -20,21 +20,24 @@ https://resume.github.io/?BenHerbst
 
 ## Tools I recommend
 
-I use Vim for simple scripts in terminal and Emacs for long coding sessions and Org mode.
+I use Vim for simple scripts in terminal and Neovim for long coding sessions and Kanboard.
 
 I recommend **Gnome** for a **great out of the box Linux Desktop** experience.
 
 Also use **Gruvbox dark** and **Pop!_OS dark** themes for your eyes.
 
-Also take a look at **Pop!_OS** for large monitors and **Ubuntu**.
+Also take a look at **Pop!_OS** for best desktop OS.
 
 I suggest you to make experience with the Godot Game engine. Game developing is more than just code.
 
 Don't build applications with electron shit.
 
-Use Javafx, Qt or Gtk
+Use Javafx, Qt or Gtk, Electron is not recommended by me! Only for ( maybe ) some cases like email app.
 
-If you do Java, use Jetbrains
+If you do Java, use Intellij.
+
+
+## Gamedev
 
 I believe that it has **4 elements**:
 
@@ -43,4 +46,4 @@ I believe that it has **4 elements**:
 3. Graphics ( e.g. Figures, Houses and everything else the player can see )
 4. Data ( e.g. dialogues, items, ... )
 
-**Please use Org Mode for your todo lists. It is amazing!**
+**Please use Kanboard for your kanban boards / todolists. It is amazing!**
