@@ -4,7 +4,7 @@
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter**
 
-**LineageOS Pop!_OS 22.04 Windows 11 pro Debian Ubuntu Fedora Manjaro Kali Mint**
+**LineageOS Pop!_OS 22.04 Windows 11 pro Debian Ubuntu Fedora Manjaro Kali Mint OneUI**
 
 ## My stats
 <p align=left>
