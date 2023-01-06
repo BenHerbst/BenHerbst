@@ -1,10 +1,10 @@
 ***Checkout my website: [https://www.benherbst.de/](https://www.benherbst.de/)***
 
-**Gdscript, Java, Kotlin, D, Python, Html, Css, Javascript, Typescript**
+**Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, Typescript, Groovy, Scala, Ruby, Flutter**
 
-**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter**
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, QT**
 
-**LineageOS Pop!_OS 22.04 Windows 11 Pro Debian Ubuntu Fedora Manjaro Kali Mint OneUI**
+**Android Ubuntu Touch Linux Mint Windows 10 Pro Kali Linux OneUI**
 ## My stats
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
@@ -19,19 +19,19 @@ https://resume.github.io/?BenHerbst
 
 ## Tools I recommend
 
-I use Vim for simple scripts in terminal and Neovim for long coding sessions and Kanboard.
+I mainly use Vscode for my programming. Sometimes Intellij and Android Studio for Java.
 
-I recommend **Gnome** for a **great out of the box Linux Desktop** experience.
+I recommend **Cinnamon** for a **great out of the box Linux Desktop** experience.
 
-Also use **Gruvbox dark** and **Pop!_OS dark** themes for your eyes.
+Also use **Dark mode** for your eyes.
 
-Also take a look at **Pop!_OS** for best desktop OS.
+Also take a look at **Linux MInt** for overall best desktop OS.
 
-I suggest you to make experience with the Godot Game engine. Game developing is more than just code.
+I suggest you to make experience with the Godot Game engine for game development, Gtk for great Linux apps, Flutter for good cross platform apps
 
-Don't build applications with electron shit.
+Don't build applications with electron, better use native stuff or atleast Flutter.
 
-Use Javafx, Qt or Gtk, Electron is not recommended by me! Only for ( maybe ) some cases like email app.
+Use Javafx, Qt or Gtk, Electron is not recommended by me! Only for ( maybe ) some cases like Chat app.
 
 If you do Java, use Intellij.
 
@@ -45,4 +45,4 @@ I believe that it has **4 elements**:
 3. Graphics ( e.g. Figures, Houses and everything else the player can see )
 4. Data ( e.g. dialogues, items, ... )
 
-**Please use Kanboard for your kanban boards / todolists. It is amazing!**
+**Please use Github Issues or any other issue tracker instead of kanban boards. Issues are amazing!**
