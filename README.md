@@ -19,8 +19,6 @@ https://resume.github.io/?BenHerbst
 
 ## Tools I use
 
-I use Vscode and Intellij IDEA Ultimate.
-
 I use VS Code and IntelliJ IDEA Ultimate.
 
 I do all WebDev etc. in IntelliJ, but I sometimes use VS Code too, like with code spaces. 
