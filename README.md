@@ -31,6 +31,7 @@ I like using Kanban boards like Zenkit, Trello, Asana etc.
 
 ## Administration
 I know some stuff like Postfix, Ubuntu Server, Fedora, a bit of Rocky Linux, Nextcloud, Keepass and some more
+Also having experience with Windows Administration
 I like using Docker.
 
 ## Linux
