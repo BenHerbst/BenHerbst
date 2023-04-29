@@ -2,7 +2,7 @@
 
 **Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, SCSS**
 
-**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios**
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse**
 
 **Linux and Windows, also using WSL**
 ## My stats
@@ -21,10 +21,18 @@ https://resume.github.io/?BenHerbst
 
 I use Vscode and Intellij IDEA Ultimate.
 
-I do all webdev etc. in Intellij, but I sometimes use Vscode too like with codespaces.
-I also used Neovim in past but switched to something more powerful out of the box and IDE as Intellij IDEA Ultimate is, with also great database features etc. build in.
-I use Github Copilot and I enjoy it 😊
-I also recommend using Termius as SSH and SFTP client, its a beautiful software!
+I use VS Code and IntelliJ IDEA Ultimate.
+
+I do all WebDev etc. in IntelliJ, but I sometimes use VS Code too, like with code spaces. 
+Furthermore, I also used Neo vim in past but switched to something more powerful out of the box and IDE as IntelliJ IDEA Ultimate is, with also great database features etc. build in.
+I also used both Scratch and Eclipse in the past.
+I use GitHub Copilot and I enjoy it 😊
+I also recommend using Termius as SSH and SFTP client, it's a beautiful software!
+I also use Postman for rest apis and Zenkit for project managmenet.
+Diagrams.net and PlantUML for UML and visualation.
+As version control, I use Git.
+For Gamedev I primarily used Godot with Gdscript.
+I am learning Figma and Django.
 
 ## Project Managment
 I like using Kanban boards like Zenkit, Trello, Asana etc.
