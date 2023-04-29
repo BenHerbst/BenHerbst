@@ -24,7 +24,7 @@ I use Vscode and Intellij IDEA Ultimate.
 I use VS Code and IntelliJ IDEA Ultimate.
 
 I do all WebDev etc. in IntelliJ, but I sometimes use VS Code too, like with code spaces. 
-Furthermore, I also used Neo vim in past but switched to something more powerful out of the box and IDE as IntelliJ IDEA Ultimate is, with also great database features etc. build in.
+Furthermore, I also used Neo vim in past but switched to something more powerful out of the box and IDE as IntelliJ IDEA Ultimate 🔥 is, with also great database features etc. build in.
 I also used both Scratch and Eclipse in the past.
 I use GitHub Copilot and I enjoy it 😊
 I also recommend using Termius as SSH and SFTP client, it's a beautiful software!
@@ -33,6 +33,9 @@ Diagrams.net and PlantUML for UML and visualation.
 As version control, I use Git.
 For Gamedev I primarily used Godot with Gdscript.
 I am learning Figma and Django.
+
+Used Fontforge in past to create own fonts. Gimp and Inkscape for design, Aseprite for Pixel Art, some Blender for 3D.
+Virtual Box as VM.
 
 ## Project Managment
 I like using Kanban boards like Zenkit, Trello, Asana etc.
@@ -44,3 +47,11 @@ I like using Docker.
 
 ## Linux
 I know Linux Mint, Ubuntu, Arch Linux, WSL 2, Pop!_OS
+
+Herbstluft VM, Gnome, KDE, XFCE
+
+I know a ton about Linux Desktop, you can ask me anything about it.
+
+## Other
+I do art and music too, using Ableton, Krita and Inkscape.
+Created some stuff for my game with it.
