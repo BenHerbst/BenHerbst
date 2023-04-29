@@ -1,10 +1,10 @@
 ***Checkout my website: [https://www.benherbst.de/](https://www.benherbst.de/)***
 
-**Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, Typescript, Groovy, Scala, Ruby, Flutter**
+**Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, SCSS**
 
-**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, QT**
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios**
 
-**Android Ubuntu Touch Linux Mint Windows 10 Pro Kali Linux OneUI**
+**Linux and Windows, also using WSL**
 ## My stats
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
@@ -17,32 +17,21 @@ https://skyline.github.com/BenHerbst/2023
 
 https://resume.github.io/?BenHerbst
 
-## Tools I recommend
+## Tools I use
 
-I mainly use Vscode for my programming. Sometimes Intellij and Android Studio for Java.
+I use Vscode and Intellij IDEA Ultimate.
 
-I recommend **Cinnamon** for a **great out of the box Linux Desktop** experience.
+I do all webdev etc. in Intellij, but I sometimes use Vscode too like with codespaces.
+I also used Neovim in past but switched to something more powerful out of the box and IDE as Intellij IDEA Ultimate is, with also great database features etc. build in.
+I use Github Copilot and I enjoy it 😊
+I also recommend using Termius as SSH and SFTP client, its a beautiful software!
 
-Also use **Dark mode** for your eyes.
+## Project Managment
+I like using Kanban boards like Zenkit, Trello, Asana etc.
 
-Also take a look at **Linux MInt** for overall best desktop OS.
+## Administration
+I know some stuff like Postfix, Ubuntu Server, Fedora, a bit of Rocky Linux, Nextcloud, Keepass and some more
+I like using Docker.
 
-I suggest you to make experience with the Godot Game engine for game development, Gtk for great Linux apps, Flutter for good cross platform apps
-
-Don't build applications with electron, better use native stuff or atleast Flutter.
-
-Use Javafx, Qt or Gtk, Electron is not recommended by me! Only for ( maybe ) some cases like Chat app.
-
-If you do Java, use Intellij.
-
-
-## Gamedev
-
-I believe that it has **4 elements**:
-
-1. Logic ( code; everything that gives the game a logic, so a figure can run, buttons popup windows, ... ; connects Graphics with Data and Audio )
-2. Audio ( Sounds, Music; everything the player can hear )
-3. Graphics ( e.g. Figures, Houses and everything else the player can see )
-4. Data ( e.g. dialogues, items, ... )
-
-**Please use Github Issues or any other issue tracker instead of kanban boards. Issues are amazing!**
+## Linux
+I know Linux Mint, Ubuntu, Arch Linux, WSL 2, Pop!_OS
