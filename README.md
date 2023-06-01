@@ -37,6 +37,7 @@ Virtual Box as VM.
 
 ## Project Managment
 I like using Kanban boards like Zenkit, Trello, Asana etc.
+Also like using Todoist
 
 ## Administration
 I know some stuff like Postfix, Ubuntu Server, Fedora, a bit of Rocky Linux, Nextcloud, Keepass and some more
