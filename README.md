@@ -2,7 +2,7 @@
 
 **Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, SCSS**
 
-**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js**
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit**
 
 **Linux and Windows, also using WSL**
 ## My stats
