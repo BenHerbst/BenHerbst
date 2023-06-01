@@ -53,4 +53,4 @@ I know a ton about Linux Desktop, you can ask me anything about it.
 
 ## Other
 I do art and music too, using Ableton, Krita and Inkscape.
-Created some stuff for my game with it.
+Created some stuff for my games with it.
