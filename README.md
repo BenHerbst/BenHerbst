@@ -35,6 +35,12 @@ I am learning Figma and Django.
 Used Fontforge in past to create own fonts. Gimp and Inkscape for design, Aseprite for Pixel Art, some Blender for 3D.
 Virtual Box as VM.
 
+## Support me ( PayPal )
+|[Donate](https://www.paypal.com/donate/?hosted_button_id=C5X9LBEM7XZ64)|
+|---|
+
+If you donate something, it is going to be used mainly for hosting costs and other stuff I have to buy for coding.
+
 ## Project Managment
 I like using Kanban boards like Zenkit, Trello, Asana etc.
 Also like using Todoist
