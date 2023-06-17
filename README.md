@@ -1,4 +1,4 @@
-***Checkout my website: [https://www.benherbst.de/](https://www.benherbst.de/)***
+***Checkout my website: [https://www.benherbst.net/](https://www.benherbst.net/)***
 
 **Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, SCSS**
 
