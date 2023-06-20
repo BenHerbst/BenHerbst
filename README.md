@@ -61,5 +61,9 @@ I know a ton about Linux Desktop, you can ask me anything about it.
 I do art and music too, using Ableton, Krita and Inkscape.
 Created some stuff for my games with it.
 
+## FUQQ
+The creator of the FUQQ Community
+https://discord.gg/6hGvuW2fKy
+
 ## **New** feature here on this readme ( Copied from https://github.com/f11y11 ):
 ![Visitor Count](https://profile-counter.glitch.me/benherbst/count.svg)
