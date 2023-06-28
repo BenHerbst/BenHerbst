@@ -4,6 +4,8 @@
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit**
 
+I am currently using Nuxt mainly
+
 **Linux and Windows, also using WSL**
 ## My stats
 <p align=left>
