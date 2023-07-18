@@ -1,12 +1,11 @@
 ***Checkout my website: [https://www.benherbst.net/](https://www.benherbst.net/)***
 
-**Gdscript, Java, Kotlin, D, C, Python, Html, Css, Javascript, SCSS**
+**Gdscript, Java, Kotlin, D, C, Python, HTML, CSS, JavaScript, SCSS, TypeScript**
 
-**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit, Git LFS, Perforce**
+**Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit, Git LFS, Vuetify, DoomEmacs, SpaceMacs, Neovim**
 
-I am currently using Nuxt mainly
+I am currently with Nuxt, Ionic and Vuetify mainly
 
-**Linux and Windows, also using WSL**
 ## My stats
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
@@ -47,10 +46,14 @@ If you donate something, it is going to be used mainly for hosting costs and oth
 I like using Kanban boards like Zenkit, Trello, Asana etc.
 Also like using Todoist
 
-## Administration
+## Administration / Devops
 I know some stuff like Postfix, Ubuntu Server, Fedora, a bit of Rocky Linux, Nextcloud, Keepass and some more
 Also having experience with Windows Administration
+
 I like using Docker.
+
+The web servers and reverse proxies that I use are Nginx and Apache HTTPD.
+I have experience with Hetzner Cloud and Cloudflare, Mailgun, OneSignal
 
 ## Linux
 I know Linux Mint, Ubuntu, Arch Linux, WSL 2, Pop!_OS
