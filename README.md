@@ -56,7 +56,7 @@ The web servers and reverse proxies that I use are Nginx and Apache HTTPD.
 I have experience with Hetzner Cloud and Cloudflare, Mailgun, OneSignal
 
 ## Linux
-I know Linux Mint, Ubuntu, Arch Linux, WSL 2, Pop!_OS
+I know Linux Mint, Ubuntu, Arch Linux, WSL 2, Pop!_OS, KDE Neon
 
 Herbstluft VM, Gnome, KDE, XFCE
 
