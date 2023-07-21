@@ -6,7 +6,7 @@
 
 I am currently with Nuxt, Ionic and Vuetify mainly
 
-## My stats
+## My stats ( About public repos only )
 <p align=left>
   <img src="https://github-readme-stats.vercel.app/api?username=BenHerbst&show_icons=true&bg_color=ffffff"/>
 <p/>
