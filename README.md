@@ -5,7 +5,7 @@
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit, Git LFS, Vuetify, DoomEmacs, SpaceMacs, Neovim**
 
-I am currently with Nuxt, Ionic and Vuetify mainly
+I am currently with Nuxt, Tailwind, Supabase mostly
 
 Need a Flutter Developer for a mobile app, if you are professional level, contact mail@benherbst.net
 
