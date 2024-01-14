@@ -1,13 +1,11 @@
 # *Creator, Founder and Manager of Devs4Devs https://www.devsfordevs.com/*
 ***Checkout my website: [https://www.benherbst.net/](https://www.benherbst.net/)***
 
-**Gdscript, Java, Kotlin, D, C, Python, HTML, CSS, JavaScript, SCSS, TypeScript**
+**Gdscript, Java, Kotlin, D, C, Python, HTML, CSS, JavaScript, SCSS, TypeScript, Dart**
 
 **Godot, Javafx, Vue.js, Tornadofx, Gtk, Tkinter, Bootstrap, Flask, Mysql, Docker, Vscode, Intellij IDEA Ultimate, SQLite, Zenkit, Electron, Git, Ubuntu Server, Axios, Eclipse, Nuxt.js, Firebase, LibAdwaita, GdUnit, Git LFS, Vuetify, DoomEmacs, SpaceMacs, Neovim**
 
-I am currently with Nuxt, Tailwind, Supabase mostly
-
-Need a Flutter Developer for a mobile app, if you are professional level, contact mail@benherbst.net
+I am currently with Nuxt, Tailwind, Flutter mostly
 
 ## My stats ( About public repos only )
 <p align=left>
