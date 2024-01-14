@@ -23,16 +23,16 @@ https://resume.github.io/?BenHerbst
 
 I use VS Code and IntelliJ IDEA Ultimate.
 
-I do all WebDev etc. in IntelliJ, but I sometimes use VS Code too, like with code spaces. 
-Furthermore, I also used Neo vim in past but switched to something more powerful out of the box and IDE as IntelliJ IDEA Ultimate 🔥 is, with also great database features etc. build in.
+I do all WebDev etc. in IntelliJ, but I sometimes use VS Code too, mostly with code spaces. 
+Furthermore, I also used Neovim in past but switched to something more powerful out of the box and IDE as IntelliJ IDEA Ultimate 🔥 is, with also great database features etc. build in.
 I also used both Scratch and Eclipse in the past.
-I use GitHub Copilot and I enjoy it 😊
+I used GitHub Copilot in past
 I also recommend using Termius as SSH and SFTP client, it's a beautiful software!
 I also use Postman for rest apis and Zenkit for project managmenet.
 Diagrams.net and PlantUML for UML and visualation.
 As version control, I use Git.
 For Gamedev I primarily used Godot with Gdscript.
-I am learning Figma and Django.
+I am learning Flutter
 
 Used Fontforge in past to create own fonts. Gimp and Inkscape for design, Aseprite for Pixel Art, some Blender for 3D.
 Virtual Box as VM.
